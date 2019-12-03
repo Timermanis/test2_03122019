@@ -1,0 +1,79 @@
+Malwarebytes
+www.malwarebytes.com
+
+-Log Details-
+Scan Date: 1/1/19
+Scan Time: 2:07 PM
+Log File: 84a153ba-0dce-11e9-8192-f0def12ce97b.json
+
+-Software Information-
+Version: 3.6.1.2711
+Components Version: 1.0.508
+Update Package Version: 1.0.8579
+License: Trial
+
+-System Information-
+OS: Windows 10 (Build 17763.195)
+CPU: x64
+File System: NTFS
+User: System
+
+-Scan Summary-
+Scan Type: Threat Scan
+Scan Initiated By: Scheduler
+Result: Completed
+Objects Scanned: 276153
+Threats Detected: 8
+Threats Quarantined: 0
+Time Elapsed: 2 min, 32 sec
+
+-Scan Options-
+Memory: Enabled
+Startup: Enabled
+Filesystem: Enabled
+Archives: Enabled
+Rootkits: Disabled
+Heuristics: Enabled
+PUP: Detect
+PUM: Detect
+
+-Scan Details-
+Process: 0
+(No malicious items detected)
+
+Module: 0
+(No malicious items detected)
+
+Registry Key: 0
+(No malicious items detected)
+
+Registry Value: 0
+(No malicious items detected)
+
+Registry Data: 0
+(No malicious items detected)
+
+Data Stream: 0
+(No malicious items detected)
+
+Folder: 0
+(No malicious items detected)
+
+File: 8
+PUP.Optional.Conduit, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Sync Data\SyncData.sqlite3, No Action By User, [215], [454832],1.0.8579
+PUP.Optional.Conduit, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Secure Preferences, No Action By User, [215], [454832],1.0.8579
+PUP.Optional.CertifiedTB, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Web Data, No Action By User, [340], [455066],1.0.8579
+PUP.Optional.CertifiedTB, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Sync Data\SyncData.sqlite3, No Action By User, [340], [455066],1.0.8579
+PUP.Optional.CertifiedTB, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Web Data, No Action By User, [340], [455066],1.0.8579
+PUP.Optional.Conduit, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Sync Data\SyncData.sqlite3, No Action By User, [215], [454832],1.0.8579
+PUP.Optional.Conduit, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Web Data, No Action By User, [215], [454832],1.0.8579
+PUP.Optional.Conduit, C:\USERS\JANIS\APPDATA\LOCAL\GOOGLE\CHROME\USER DATA\Default\Web Data, No Action By User, [215], [454832],1.0.8579
+
+Physical Sector: 0
+(No malicious items detected)
+
+WMI: 0
+(No malicious items detected)
+
+
+(end)
